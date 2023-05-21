@@ -10,7 +10,12 @@
     <img src="./img/print.png" alt="foto do currículo">
 </p>
 
-## Links úteis
+## Tecnologias utilizadas: 
+
+- HTML
+- CSS
+
+## Links úteis:
 
 - [Clique aqui para visualizar o projeto](https://arthurgab03.github.io/curriculum-vitae/index.html)
 
