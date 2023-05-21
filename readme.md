@@ -1,6 +1,8 @@
 # Curriculum Vitae
 
-- Descrição: Projeto desenvolvido com os conhecimentos adquiridos no bootcamp Ifood Angular Developer da Digital Innovation One. O projeto é um   modelo de currículo virtual e responsivo para telas de diversos dispositivos.
+## Descrição:
+
+- Projeto desenvolvido com os conhecimentos adquiridos no bootcamp Ifood Angular Developer da Digital Innovation One. O projeto é um   modelo de currículo virtual e responsivo para telas de diversos dispositivos.
 
 <br>
 
