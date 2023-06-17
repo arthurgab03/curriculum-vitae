@@ -1,0 +1,12 @@
+h5 a:hover {
+    color: rgba(0, 0, 0, 0.753);
+}
+
+
+a:hover {
+    color: black
+}
+
+footer p {
+    margin: 10px 0;
+}
